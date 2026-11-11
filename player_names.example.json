@@ -1,0 +1,6 @@
+{
+  "_comment": "Example only. Copy to player_names.json (git-ignored) and replace with your own players. Never commit real names.",
+  "500": {"name": "Rocket", "age": "6-8", "consent": true},
+  "501": {"name": "Comet", "age": "9-12", "consent": true},
+  "502": {"name": "Pixel", "age": "6-8", "consent": false}
+}

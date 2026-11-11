@@ -1,0 +1,152 @@
+{
+  "intro": [
+    "Hi friends! I'm Ree chee. Want to play a word game?",
+    "Hello hello! I'm Ree chee, and I love word puzzles!",
+    "Hey there! I'm Ree chee. Let's play with words!",
+    "Hi! I'm Ree chee. Come play with me!"
+  ],
+  "intro_rules": [
+    "Pick a card, show me, fix the letters, press the green buzzer!",
+    "Show me a card, unscramble the tiles, then press the green buzzer!"
+  ],
+  "ready_prompt": [
+    "Press the green buzzer when you're ready!",
+    "Ready? Give the green buzzer a press!",
+    "Press the Green Buzzer when you want to start!"
+  ],
+  "session_start": [
+    "Grab your first card and show me!",
+    "Let's go! Pick your first card!",
+    "First card! Hold it up so I can see!"
+  ],
+  "waiting_for_card": [
+    "Pick a card and put it on the yellow card area.",
+    "Choose a card! Put it on the yellow card area.",
+    "Ready? Put a card on the yellow card area."
+  ],
+  "card_detected": [
+    "Got it! Bring all the letters to the playing area, then arrange them!",
+    "I see it! Bring all the letters to the playing area and arrange them!",
+    "Ooh, good one! Bring all the letters to the playing area, then arrange them!",
+    "Okay! Bring all the letters to the playing area, then arrange them and press the buzzer!"
+  ],
+  "card_repeated": [
+    "We did that one! Pick a new card.",
+    "Same card! Try a different one.",
+    "Oops, already done! Grab another."
+  ],
+  "between_words": [
+    "Next card!",
+    "On to the next one!",
+    "Let's keep going — new card!"
+  ],
+  "observing": [
+    "Looking good!",
+    "Keep going!",
+    "Ooh, nice thinking!",
+    "You've got this!",
+    "Almost there, I can feel it!"
+  ],
+  "idle": [
+    "Take your time. Try moving one letter.",
+    "That's tricky! Try swapping two tiles.",
+    "No rush! Which letter goes first?",
+    "Have another look at your card!"
+  ],
+  "wrong_letter": [
+    "Hmm, check your tiles — one is sneaky!",
+    "Wait — is that the right letter?",
+    "One tile doesn't belong. Can you find it?"
+  ],
+  "hint": [
+    "Here's a hint!",
+    "Psst, listen up!",
+    "Okay, some help coming!"
+  ],
+  "correct": [
+    "Yes! You got it!",
+    "That's it! High five!",
+    "Woo hoo! Nailed it!",
+    "You did it! Amazing!"
+  ],
+  "wrong_attempt1": [
+    "Not quite!",
+    "Ooh, so close!",
+    "Good try!"
+  ],
+  "wrong_attempt2": [
+    "One more try!",
+    "Last chance — you can do it!"
+  ],
+  "word_failed": [
+    "That was a hard one!",
+    "Tough word! Let me help.",
+    "Whew, tricky one!"
+  ],
+  "streak_2": [
+    "Two in a row!",
+    "That's two! Keep it up!"
+  ],
+  "streak_3": [
+    "Three in a row! You're on fire!",
+    "Whoa, three straight!"
+  ],
+  "streak_4": [
+    "Four in a row?! Wow!",
+    "What a streak! You're a champ!"
+  ],
+  "struggling_2": [
+    "Tricky cards! The next one is yours.",
+    "Those were tough. You've got the next one!"
+  ],
+  "struggling_3": [
+    "You keep trying, and I love that. Next card!",
+    "Tough ones! I'm cheering for you."
+  ],
+  "level_complete": [
+    "Level done! Amazing!",
+    "You finished the level! Woo hoo!"
+  ],
+  "level_up": [
+    "Next level! Bigger words — you're ready!",
+    "Level up! Let's go!"
+  ],
+  "gameover": [
+    "That's the game! You did awesome!",
+    "All done! Be proud of yourself!",
+    "The end! That was so fun!"
+  ],
+  "session_timeout": [
+    "Time's up! You worked so hard!",
+    "Ding! That's time. Great playing!"
+  ],
+  "restart": [
+    "New round! Show me your first card!",
+    "Fresh start! Grab a card!"
+  ],
+  "login_prompt": [
+    "Show me your name card.",
+    "Hold up your name card.",
+    "Name card up, please.",
+    "Show your name card now."
+  ],
+  "login_detected": [
+    "I see your card! Great, hold it there.",
+    "Card detected! Keep it steady for a second.",
+    "Got your card! Nice and steady now."
+  ],
+  "player_detected": [
+    "I see you! Let's play!",
+    "Found you! Get ready!",
+    "There you are! Game time!"
+  ],
+  "explain_rules": [
+    "This is Speed Builder: each player gets one minute per turn and there are eight turns total. Use the shared 14-letter pool to spell as many words as you can.",
+    "Each player takes turns for one minute, eight turns in all, using the same 14-letter pool. Player one, you're up first — go!"
+  ],
+  "goodbye": [
+    "That was so fun! Bye for now!",
+    "Thanks for playing with me! Come back soon!",
+    "I had a blast! See you, friend!"
+  ]
+}

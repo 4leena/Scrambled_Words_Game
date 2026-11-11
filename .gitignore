@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Private data: never commit
+player_names.json
+users.json
+recordings/
+recordings_test/
+logs/
+*.xlsx
+*.mp4
+*.avi
+*.wav
